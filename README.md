@@ -6,7 +6,7 @@ This project is made using Node.js, Express.js and MongoDB. It is my third proje
 
 ## Tech Stack
 
-![Image](https://github.com/user-attachments/assets/95758a90-8519-4720-90ac-54de4def4d19)
+![Image](https://github.com/user-attachments/assets/7fcdbc5d-7c67-4a92-a4e0-5c74cee45891)
 
 ## Steps to run the project
 
@@ -28,7 +28,7 @@ cd book-management-api-project-devtown
 npm install
 ```
 
-4. Add a .env file consisting your mongodb url (make sure to add your username, your password, and your database/collection name)
+4. Add a .env file consisting your mongodb url (make sure to add your username, your password, and your database/collection name) i.e. MONGO_URL="your-url"
 
 ```bash
 touch .env
